@@ -6,7 +6,7 @@ const PROJECTS = [
     category: 'GAME',
     year: '2024',
     role: { fr: 'Gameplay & Level Design', en: 'Gameplay & Level Design' },
-    team: '5 personnes / people',
+    team: '15 personnes / people',
     duration: { fr: '4 mois', en: '4 months' },
     engine: 'Unreal Engine 5',
     tech: ['Unreal Engine 5', 'Blueprints', 'C++', 'Niagara'],
